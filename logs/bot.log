@@ -1,0 +1,5 @@
+2026-01-09 13:36:14,461 - ERROR - could not convert string to float: 'o.ooo1'
+2026-01-09 13:36:45,213 - INFO - Placing MARKET SELL order: BTCUSDT, qty=0.0001
+2026-01-09 13:36:46,736 - INFO - Response: {}
+2026-01-09 13:37:42,748 - INFO - Placing MARKET BUY order: BTCUSDT, qty=1.0
+2026-01-09 13:37:43,860 - INFO - Response: {}
